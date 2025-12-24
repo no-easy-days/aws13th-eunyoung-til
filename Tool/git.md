@@ -1,6 +1,7 @@
 ## git 이란?
 
 - 분산 버전 관리 시스템
+- 
 ![git commit flow](https://miro.medium.com/1*yHKzz1RaeLxtnDnnLcJVnA.jpeg)
 
 <br>
