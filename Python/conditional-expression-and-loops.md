@@ -84,7 +84,3 @@ while True:
 while not queue.empty():
     process(queue.pop())
 ```
-
-> [!SUMMARY]
-> - 반복 대상이 명확하면 **for**
-> - 종료 조건이 유동적이면 **while**
