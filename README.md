@@ -5,6 +5,8 @@
 형식에 얽매이지 말고, 꾸준히 기록하는 것에 집중하세요.
 
 ## 📚 학습 목록 (Table of Contents)
+### Python
+- [What is Python?](./Python/what-is-python.md)
 
 ### Tool
 - [Git](./Tool/git.md)
