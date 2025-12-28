@@ -7,6 +7,7 @@
 ## 📚 학습 목록 (Table of Contents)
 ### Python
 - [What is Python?](./Python/what-is-python.md)
+- [Variables and Data Types](./Python/variables-and-data-types.md)
 
 ### Tool
 - [Git](./Tool/git.md)
