@@ -7,6 +7,7 @@
 ## 📚 학습 목록 (Table of Contents)
 ### Network
 - [Client-Server vs. P2P](./Network/client-server-vs-p2p.md)
+- [DNS Records](./Network/DNS-Records.md)
 
 ### Python
 - [What is Python?](./Python/what-is-python.md)
