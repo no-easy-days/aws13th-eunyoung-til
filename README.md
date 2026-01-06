@@ -5,6 +5,9 @@
 형식에 얽매이지 말고, 꾸준히 기록하는 것에 집중하세요.
 
 ## 📚 학습 목록 (Table of Contents)
+### Network
+- [Client-Server vs. P2P](./Network/client-server-vs-p2p.md)
+
 ### Python
 - [What is Python?](./Python/what-is-python.md)
 - [Variables and Data Types](./Python/variables-and-data-types.md)
