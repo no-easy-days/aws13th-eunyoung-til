@@ -8,6 +8,7 @@
 ### Network
 - [Client-Server vs. P2P](./Network/client-server-vs-p2p.md)
 - [Proxy and DNS Records](./Network/DNS-Records.md)
+- [HTTP](./Network/HTTP.md)
 
 ### Python
 - [What is Python?](./Python/what-is-python.md)
