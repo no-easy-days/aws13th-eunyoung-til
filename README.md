@@ -7,7 +7,7 @@
 ## 📚 학습 목록 (Table of Contents)
 ### Network
 - [Client-Server vs. P2P](./Network/client-server-vs-p2p.md)
-- [Proxy and DNS Records](./Network/proxy-DNS-Records.md)
+- [Proxy and DNS Records](./Network/proxy-DNS-records.md)
 - [HTTP](./Network/HTTP.md)
 - [REST](./Network/REST.md)
 
