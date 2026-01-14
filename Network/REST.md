@@ -98,7 +98,7 @@ https://api.example.com:443/users/jeff?role=admin#profile
 <br>
 
 > [!NOTE]
-> **Pydantic**
+> **[Pydantic](../Python/pydantic.md)**
 > - Python에서 데이터 유효성 검사와 직렬화를 담당하는 라이브러리
 > - 타입 힌트를 기반으로 요청/응답 데이터 구조를 자동 검증
 > - REST API에서 주고받는 JSON 데이터를 검증하기 위해 사용
