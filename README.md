@@ -16,6 +16,7 @@
 - [Variables and Data Types](./Python/variables-and-data-types.md)
 - [Conditional Expression and Loops](/Python/conditional-expression-and-loops.md)
 - [uv](./Python/uv.md)
+- [pydantic](./Python/pydantic.md)
 
 ### Tool
 - [Git](./Tool/git.md)
