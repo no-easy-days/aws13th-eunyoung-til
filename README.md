@@ -5,6 +5,8 @@
 형식에 얽매이지 말고, 꾸준히 기록하는 것에 집중하세요.
 
 ## 📚 학습 목록 (Table of Contents)
+### DB
+- [PostgreSQLvs.MySQL](./DB/PostgreSQLvs.MySQL.md)
 ### Network
 - [Client-Server vs. P2P](./Network/client-server-vs-p2p.md)
 - [Proxy and DNS Records](./Network/proxy-DNS-records.md)
