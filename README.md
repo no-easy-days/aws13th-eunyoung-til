@@ -7,6 +7,7 @@
 ## 📚 학습 목록 (Table of Contents)
 ### DB
 - [PostgreSQLvs.MySQL](./DB/PostgreSQLvs.MySQL.md)
+- [SQL & MariaDB](./DB/SQL%26MariaDB.md)
 ### Network
 - [Client-Server vs. P2P](./Network/client-server-vs-p2p.md)
 - [Proxy and DNS Records](./Network/proxy-DNS-records.md)
